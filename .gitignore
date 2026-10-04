@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & Editors
+.vscode/
+.idea/
+
+# Database (optional - remove if you want to push weather_data.db)
+# weather_data.db
